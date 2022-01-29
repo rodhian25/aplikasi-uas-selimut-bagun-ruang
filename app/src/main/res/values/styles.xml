@@ -1,0 +1,34 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+
+    <string name="gambarmulai">gambar</string>
+    <string name="gambarvalue">gambar</string>
+    <string name="gkerucut">gambar</string>
+    <string name="gbalok">gambar</string>
+    <string name="gambarkeluar">gkeluar</string>
+    <string name="gvolume">gvolume</string>
+    <string name="gselimut">gselimut</string>
+    <string name="rvb">rvb</string>
+    <string name="rsb">rsb</string>
+    <string name="rvk">rvk</string>
+    <string name="rsk">rsk</string>
+    <string name="rskk">rskk</string>
+    <string name="rvkk">rvkk</string>
+
+
+    <style name="AppTheme.NoActionBar">
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+    </style>
+
+    <style name="AppTheme.AppBarOverlay" parent="ThemeOverlay.AppCompat.Dark.ActionBar" />
+
+    <style name="AppTheme.PopupOverlay" parent="ThemeOverlay.AppCompat.Light" />
+</resources>
